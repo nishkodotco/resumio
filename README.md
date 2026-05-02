@@ -2,12 +2,6 @@
   <!-- <img src="public/window.svg" alt="Resumio Logo" width="100" /> -->
   <h1>RESUMIO</h1>
   <p><strong>Your entire career history in one place. Perfectly tailored resumes in seconds.</strong></p>
-  
-  [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC)](https://tailwindcss.com/)
-  [![Clerk Auth](https://img.shields.io/badge/Clerk-Auth-6C47FF)](https://clerk.com/)
-  [![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E)](https://supabase.com/)
-  [![Gemini AI](https://img.shields.io/badge/Gemini-AI-4285F4)](https://deepmind.google/technologies/gemini/)
 </div>
 
 <br />
