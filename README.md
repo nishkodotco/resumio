@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="public/window.svg" alt="Resumio Logo" width="100" />
-  <h1>Resumio.app</h1>
+  <!-- <img src="public/window.svg" alt="Resumio Logo" width="100" /> -->
+  <h1>resumio.app</h1>
   <p><strong>Your entire career history in one place. Perfectly tailored resumes in seconds.</strong></p>
   
   [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
@@ -22,7 +22,6 @@ You find yourself deleting valuable experience to fit a page limit, or digging t
 
 **There has to be a better way.**
 
----
 
 ## 💡 The Solution: Resumio
 
@@ -33,8 +32,6 @@ Your Master Resume is the single source of truth for your entire professional li
 When you find a job you want to apply for, you simply **paste the Job Description into Resumio**. Our integrated AI (powered by Google Gemini) instantly cross-references the job requirements with your Master Resume, extracting *only* the most relevant experiences and highlighting the exact skills the employer is looking for.
 
 You get a perfectly tailored, ATS-optimized, high-impact resume in seconds. 
-
----
 
 ## 🎯 Who is this for?
 
@@ -54,52 +51,6 @@ Resumio is designed to give you an unfair advantage in the job market. It is inc
 - **🔒 Secure & Private:** Built with Clerk Authentication and Supabase (PostgreSQL), ensuring your personal data is locked down and accessible only by you.
 - **🎨 Beautiful Exports:** Export your tailored resumes to pixel-perfect, recruiter-approved PDF formats.
 
----
-
-## 🛠️ Technology Stack
-
-Resumio is built on a modern, bleeding-edge tech stack to ensure performance, security, and a premium user experience:
-
-- **Frontend:** Next.js (App Router), React, TypeScript
-- **Styling:** Tailwind CSS + shadcn/ui components
-- **Authentication:** Clerk
-- **Database:** Supabase (PostgreSQL) + Prisma ORM
-- **AI Integration:** Vercel AI SDK + Google Gemini
-- **Payments (Upcoming):** Stripe
-
----
-
-## 🤝 Getting Started (Local Development)
-
-Want to run Resumio locally or contribute to the project?
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/nishkodotco/resumio.git
-   cd resumio/resumio.app
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Set up Environment Variables:**
-   Create a `.env.local` file and add your keys for Clerk, Supabase (Database URI), and Gemini.
-
-4. **Sync the Database:**
-   ```bash
-   npx prisma db push
-   ```
-
-5. **Run the development server:**
-   ```bash
-   npm run dev
-   ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
----
 <div align="center">
   <i>Stop tweaking Word documents. Start landing interviews.</i>
 </div>
