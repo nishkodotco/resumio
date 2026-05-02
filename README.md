@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <img src="public/window.svg" alt="Resumio Logo" width="100" /> -->
-  <h1>resumio.app</h1>
+  <h1>RESUMIO</h1>
   <p><strong>Your entire career history in one place. Perfectly tailored resumes in seconds.</strong></p>
   
   [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
